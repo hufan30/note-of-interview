@@ -1,6 +1,8 @@
 # 介绍
 收集了互联网面试过程中常见的面试问题，并对这些问题、知识点做分析和整理，希望对大家有所帮助。如果**有错误地方还希望提出宝贵建议，批评指正。祝大家求职顺利**。
 
+如果喜欢可以点下star收藏。  
+
 # 在线阅读
 本文档使用 Gitbook 制作，[在线阅读地址](https://www.gitbook.com/book/zhengjianglong/note-of-interview/details)
 
@@ -23,11 +25,6 @@
 # 声明
 如果有错之处还望指出和纠正。联系方式:zhengjianglong915@gmail.com
 
-**所有引用内容版权归原作者所有。**
-
-<a rel="license" href="http://creativecommons.org/licenses/by-nc-sa/3.0/cn/"><img alt="知识共享许可协议" style="border-width:0" src="https://i.creativecommons.org/l/by-nc-sa/3.0/cn/88x31.png" /></a><br />本作品采用<a rel="license" href="http://creativecommons.org/licenses/by-nc-sa/3.0/cn/">知识共享署名-非商业性使用-相同方式共享 3.0 中国大陆许可协议</a>进行许可。
-
-
 ## 内容提纲
 * [前言](abstract.md)
 * [第一章 操作系统](./os/README.md)
@@ -49,18 +46,24 @@
   * [4.4 多线程](./java/thread.md)
   * [4.5 IO](./java/io.md)
   * [4.5 JVM](./java/jvm.md)
+     * [G1垃圾回收器](./java/G1垃圾回收器.md)
 * [第五章 数据库](./database/README.md)
   * [5.1 常见面试题](./database/all.md)
 * [第六章 框架](./framework/README.md)
   * [6.1 spring](./framework/spring.md)
-  * [6.2 hibernate](./framework/hibernate.md)
-  * [6.3 struts](./framework/struts.md)
+  * [6.2 mybatis] 
+  * [6.3 hibernate](./framework/hibernate.md) 
+  * [6.4 struts](./framework/struts.md)
 * [第七章 其他基础](./others/README.md)
   * [7.1 编码历史](./others/section1.md)
   * [7.2 单例模式的几种实现方式](./others/danli.md)
   * [7.3 一致性哈希算法](./others/hash.md)
-* [第八章 HR面](./hr/README.md)
-  * [8.1 项目与个人](./chapter8/ask.md)
+  * [7.4 设计模式汇总](./others/设计模式汇总.md)
+  * [7.5 大型网站架构](./others/大型网站架构.md)
+* [第八章 分布式相关]
+  * [8.1 缓存redis](./cache/redis.md)
+* [第九章 HR面](./hr/README.md)
+  * [9.1 项目与个人](./chapter8/ask.md)
 
 
 
